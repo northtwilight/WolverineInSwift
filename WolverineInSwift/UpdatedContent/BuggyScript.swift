@@ -11,10 +11,6 @@ func addNumbers(a: Double, b: Double) -> Double {
     return a + b
 }
 
-func subtractNumbers(a: Double, b: Double) -> Double {
-    return a - b
-}
-
 func multiplyNumbers(a: Double, b: Double) -> Double {
     return a * b
 }
