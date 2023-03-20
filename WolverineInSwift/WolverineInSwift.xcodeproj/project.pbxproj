@@ -89,6 +89,7 @@
 		77A663C329C8110C001F564D = {
 			isa = PBXGroup;
 			children = (
+				77A6640D29C903B8001F564D /* README.md */,
 				77A663CE29C8110C001F564D /* WolverineInSwift */,
 				77A663E029C8110E001F564D /* WolverineInSwiftTests */,
 				77A663EA29C8110E001F564D /* WolverineInSwiftUITests */,
@@ -157,7 +158,6 @@
 		77A6640729C8C384001F564D /* UpdatedContent */ = {
 			isa = PBXGroup;
 			children = (
-				77A6640D29C903B8001F564D /* README.md */,
 				77A6640B29C8DEDD001F564D /* LICENSE */,
 				77A6640829C8C39B001F564D /* BuggyScript.swift */,
 			);
