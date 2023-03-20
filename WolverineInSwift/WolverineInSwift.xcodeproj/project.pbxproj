@@ -20,6 +20,7 @@
 		77A6640529C8BD56001F564D /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = 77A6640429C8BD56001F564D /* ArgumentParser */; };
 		77A6640929C8C39B001F564D /* BuggyScript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A6640829C8C39B001F564D /* BuggyScript.swift */; };
 		77A6640C29C8DEDD001F564D /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 77A6640B29C8DEDD001F564D /* LICENSE */; };
+		77A6640E29C903B8001F564D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 77A6640D29C903B8001F564D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		77A663FC29C833D3001F564D /* prompts.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = prompts.txt; sourceTree = "<group>"; };
 		77A6640829C8C39B001F564D /* BuggyScript.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuggyScript.swift; sourceTree = "<group>"; };
 		77A6640B29C8DEDD001F564D /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		77A6640D29C903B8001F564D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 		77A6640729C8C384001F564D /* UpdatedContent */ = {
 			isa = PBXGroup;
 			children = (
+				77A6640D29C903B8001F564D /* README.md */,
 				77A6640B29C8DEDD001F564D /* LICENSE */,
 				77A6640829C8C39B001F564D /* BuggyScript.swift */,
 			);
@@ -283,6 +286,7 @@
 			files = (
 				77A663FD29C833D3001F564D /* prompts.txt in Resources */,
 				77A663D729C8110D001F564D /* Preview Assets.xcassets in Resources */,
+				77A6640E29C903B8001F564D /* README.md in Resources */,
 				77A6640C29C8DEDD001F564D /* LICENSE in Resources */,
 				77A663D429C8110D001F564D /* Assets.xcassets in Resources */,
 			);
