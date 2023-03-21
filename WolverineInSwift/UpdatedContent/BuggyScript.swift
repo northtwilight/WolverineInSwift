@@ -15,6 +15,10 @@ func multiplyNumbers(a: Double, b: Double) -> Double {
     return a * b
 }
 
+func subtractNumbers(a: Double, b: Double) -> Double {
+    return 0
+}
+
 func divideNumbers(a: Double, b: Double) -> Double {
     return a / b
 }
